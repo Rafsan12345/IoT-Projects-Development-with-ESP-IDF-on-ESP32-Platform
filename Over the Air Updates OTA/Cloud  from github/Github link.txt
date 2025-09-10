@@ -1,0 +1,1 @@
+https://github.com/Rafsan12345/esp32_ota/blob/main/ABC.bin
