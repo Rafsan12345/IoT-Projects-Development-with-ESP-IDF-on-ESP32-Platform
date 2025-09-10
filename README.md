@@ -1,3 +1,4 @@
+
 IoT Projects Development with ESP-IDF on ESP32
 
 📂 Repository Structure
@@ -44,11 +45,8 @@ Clone the repository:
 
 git clone https://github.com/Rafsan12345/IoT-Projects-Development-with-ESP-IDF-on-ESP32-Platform.git
 
-Standard Installation
-You can install Quill directly from PyPI:
 
-pip install quill
-Development Installation
+
 
 
 
