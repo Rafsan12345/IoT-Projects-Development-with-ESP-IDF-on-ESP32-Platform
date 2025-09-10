@@ -1,0 +1,4 @@
+name: coap_server
+version: "1.0.0"
+dependencies:
+  espressif/coap: "^4.3.0"
