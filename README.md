@@ -1,7 +1,5 @@
 IoT Projects Development with ESP-IDF on ESP32
 
-
-
 📂 Repository Structure
 IoT-ESP32-Projects/
 ├── ADC/
@@ -39,34 +37,6 @@ IoT-ESP32-Projects/
 
 
 Each folder contains an independent ESP-IDF project. Projects can be built and flashed separately.
-
-🚀 Key Topics Covered
-
-GPIO: LED, Button, Relay, Interrupts
-
-PWM & Timers: Motor, LED dimming, Timer interrupts
-
-ADC / DAC: Analog sensor reading and output
-
-UART / SPI / I2C: Peripheral interfacing and scanners
-
-Wi-Fi: Station and Access Point modes, TCP/HTTP clients, Web servers
-
-MQTT / MQTTS / Adafruit IO / AWS IoT: Cloud connectivity and communication
-
-HTTPS & Webserver: Secure web communication
-
-File Systems: FAT, SPIFFS, NVS storage
-
-OLED / LCD Displays: Visual output
-
-RTOS: Tasks, Queues, Event Groups, multi-threading examples
-
-Over The Air Updates (OTA): Firmware updates
-
-ESP32 Camera (WebCam): Video streaming
-
-Comprehensive ESP-IDF Command List included
 
 ⚙️ Quick Start
 
