@@ -1,6 +1,6 @@
 IoT Projects Development with ESP-IDF on ESP32
 
-This repository contains a wide collection of ESP32 IoT projects developed using ESP-IDF. Each project demonstrates real-world IoT applications, covering a broad range of peripherals, protocols, and ESP32 features.
+
 
 📂 Repository Structure
 IoT-ESP32-Projects/
@@ -73,7 +73,7 @@ Comprehensive ESP-IDF Command List included
 Clone the repository:
 
 git clone https://github.com/Rafsan12345/IoT-Projects-Development-with-ESP-IDF-on-ESP32-Platform.git
-cd IoT-ESP32-Projects
+
 
 
 
